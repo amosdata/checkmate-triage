@@ -1,0 +1,7 @@
+{
+    "headache": ["migraine", "tension headache", "dehydration"],
+    "fever": ["flu", "infection", "COVID-19"],
+    "cough": ["cold", "COVID-19", "bronchitis"],
+    "fatigue": ["anemia", "thyroid issues", "depression"]
+  }
+  

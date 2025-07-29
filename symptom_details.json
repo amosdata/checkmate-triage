@@ -1,0 +1,23 @@
+{
+    "migraine": {
+      "description": "A neurological condition causing severe headaches, nausea, and light sensitivity.",
+      "severity": "moderate to severe",
+      "suggested_action": "Rest in a dark room and take migraine medication if prescribed."
+    },
+    "flu": {
+      "description": "A contagious viral infection causing fever, body aches, and fatigue.",
+      "severity": "moderate",
+      "suggested_action": "Stay home, rest, and drink fluids. See a doctor if symptoms worsen."
+    },
+    "cold": {
+      "description": "A common viral infection causing sneezing, coughing, and mild fatigue.",
+      "severity": "mild",
+      "suggested_action": "Rest and drink plenty of fluids."
+    },
+    "anemia": {
+      "description": "A condition where you lack enough healthy red blood cells to carry oxygen.",
+      "severity": "moderate",
+      "suggested_action": "See a healthcare provider for a blood test and treatment options."
+    }
+  }
+  
